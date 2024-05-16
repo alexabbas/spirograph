@@ -1,0 +1,12 @@
+name: spirograph
+title: spirograph
+username:
+account: alexa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2438908
+bundleId: 3254187
+url: https://alexa.shinyapps.io/spirograph/
+when: 1591828998.69667
+asMultiple: FALSE
+asStatic: FALSE
